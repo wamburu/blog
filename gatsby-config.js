@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Denzel's Musings`,
-    name: `Denzel`,
+    title: `Denzel's Logs`,
+    name: `Denzel Wamburu`,
     siteUrl: `https://wamburu.codes`,
-    description: `Denzel Wamburu: Sharing thoughts, ideas & projects and `,
+    description: `Denzel Wamburu: Sharing thoughts, ideas & projects. `,
     hero: {
       heading: ``,
       // heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
@@ -24,7 +24,7 @@ module.exports = {
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/i/wamburu/`,
+        url: `https://www.linkedin.com/in/wamburu/`,
       }
     ],
   },
@@ -45,8 +45,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Denzel's Logs`,
+        short_name: `Denz W`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
