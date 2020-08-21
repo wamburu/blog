@@ -2,7 +2,7 @@
 
 ### About
 
-Collected and sorted out notes, essays on daily thinking, readings, brain holes and technical topics. Scoping but not limited to innovation, technology, markets, the future, music, etc.
+Collected and sorted out notes, essays on daily thinking, readings, brain holes and technical topics; Scoping but not limited to innovation, technology, markets, the future, music, etc.
 
 
 
