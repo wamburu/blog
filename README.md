@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a2088d26-b049-4181-8347-f11d57f808b1/deploy-status)](https://app.netlify.com/sites/wamburu/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/28e96892-17b9-4f21-bef8-2382e764e882/deploy-status)](https://app.netlify.com/sites/wamburu/deploys)
 
 ### About
 
