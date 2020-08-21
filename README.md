@@ -1,11 +1,14 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a2088d26-b049-4181-8347-f11d57f808b1/deploy-status)](https://app.netlify.com/sites/wamburu/deploys)
 
+### About
 
-Blog built using [Novela Theme](https://github.com/narative/gatsby-theme-novela)
+Collected and sorted out notes, essays on daily thinking, readings, brain holes and technical topics. Scoping but not limited to innovation, technology, markets, the future, music, etc.
 
 
 
 ## Developing
+Blog built using [Novela Theme](https://github.com/narative/gatsby-theme-novela)
+
 ### Step 1:
 
 ##### With `git clone`:
