@@ -1,3 +1,10 @@
+const activeEnv =
+  process.env.GATSBY_ACTIVE_ENV || process.env.NODE_ENV || "development"
+console.log(`Using environment config: '${activeEnv}'`)
+require("dotenv").config({
+  path: `.env.${activeEnv}`,
+})
+
 module.exports = {
   siteMetadata: {
     title: `Denzel's Logs`,
@@ -28,6 +35,9 @@ module.exports = {
       }
     ],
   },
+  siteMetadata: {
+    siteUrl: `https://wamburu.codes`,
+  },
   plugins: [
     {
       resolve: "@narative/gatsby-theme-novela",
@@ -45,7 +55,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Denzel's Logs`,
+        name: `Denzel Wamburu Logs`,
         short_name: `Denz W`,
         start_url: `/`,
         background_color: `#fff`,
@@ -58,6 +68,25 @@ module.exports = {
       resolve: `gatsby-plugin-netlify-cms`,
       options: {
       },
+    },
+    {
+      resolve: `gatsby-plugin-offline`
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: process.env.GA_TRACKING_ID,
+        head: false,
+        anonymize: true,
+        respectDNT: true,
+        pageTransitionDelay: 0,
+        sampleRate: 5,
+        siteSpeedSampleRate: 10,
+        cookieDomain: "wamburu.codes",
+      },
+    },
+    {
+      resolve: `gatsby-plugin-advanced-sitemap`
     },
   ],
 };
