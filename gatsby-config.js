@@ -3,10 +3,10 @@ module.exports = {
     title: `Denzel's Logs`,
     name: `Denzel Wamburu`,
     siteUrl: `https://wamburu.codes`,
-    description: `Denzel Wamburu: Sharing thoughts, ideas & projects. `,
+    description: `Denzel Wamburu: My lifelog. Sharing thoughts, ideas & projects. `,
     hero: {
       heading: ``,
-      // heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      // heading: `This is my lifelog and digital playground.`,
       maxWidth: 652,
     },
     social: [
