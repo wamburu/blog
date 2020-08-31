@@ -7,7 +7,7 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `Denzel's Logs`,
+    title: `Denzel's LifeLogs`,
     name: `Denzel Wamburu`,
     siteUrl: `https://wamburu.codes`,
     description: `Denzel Wamburu: My lifelog. Sharing thoughts, ideas & projects. `,
@@ -34,9 +34,6 @@ module.exports = {
         url: `https://www.linkedin.com/in/wamburu/`,
       }
     ],
-  },
-  siteMetadata: {
-    siteUrl: `https://wamburu.codes`,
   },
   plugins: [
     {
