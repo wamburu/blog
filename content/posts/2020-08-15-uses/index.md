@@ -37,6 +37,7 @@ Photo by <a href="https://unsplash.com/@alexacea?utm_source=unsplash&amp;utm_med
 * [PlatformIO](https://platformio.org/) - Embedded development workflow
 
 ### Misc 💾
+* [Bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings 
 * [Notion](https://notion.so) - Notes & Project Management
 * [Nylas Mail](https://github.com/nylas/nylas-mail) - Email Client
 * [RescueTime](https://www.rescuetime.com/) - Time tracker
