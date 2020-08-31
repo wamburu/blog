@@ -3,8 +3,7 @@ title: Media Consumption (Aug 2020)
 author: Denzel Wamburu
 date: '2020-09-01'
 excerpt: Tracked Media Consumption for Aug 2020.
-hero: images/open_book.jpg
-slug: media-consumption-aug-2020
+hero: images/opened_book.jpg
 ---
 Photo by <a href="https://unsplash.com/@gitsela?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ergita Sela</a> on <a href="https://unsplash.com/s/photos/books?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
 
