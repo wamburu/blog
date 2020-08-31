@@ -6802,6 +6802,11 @@ gatsby-plugin-sitemap@^2.4.12:
     pify "^3.0.0"
     sitemap "^1.13.0"
 
+gatsby-plugin-slug@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-slug/-/gatsby-plugin-slug-1.1.0.tgz#53c01b9ed6d435df3c498d18ab2c508e62b0ded8"
+  integrity sha512-whXudY92TYxtkdZdFztcXGDKqRkFfOKd3yFsceLw9+kuqEIBAgi1TBkDs+MRiO0cFjc3+czwy/AillcwU16ouw==
+
 gatsby-plugin-theme-ui@^0.2.40:
   version "0.2.53"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.2.53.tgz#57a52339e50ede7ef4df0b1b5593d360b56b597d"

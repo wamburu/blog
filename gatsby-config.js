@@ -85,5 +85,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-advanced-sitemap`
     },
+    {
+      resolve: `gatsby-plugin-slug`
+    },
   ],
 };
