@@ -14,7 +14,7 @@ Safaricom unbundled the big banks in Kenya during the late 00s with mobile money
 Back in the days, there was a notion among bankers that middle to low-income consumers were twopenny-halfpenny & you couldn't make substantial money banking them. M-PESA confuted this. 
 In 2007 the average distance to the nearest bank was 9.2 KM (urban areas). In 2015, the average distance to the nearest M-PESA agent was a mere 1.4 KM with 167,000 agents registered.
 The company IPOed in 2008 with shares at KSH 5 ($0.05). Today they are worth KSH 30 ($0.3), a **6x** return with a market cap of **$10B** (10 times than the largest bank).
-With smartphone penetration at 97% mobile transactions totaled to ** $43.5B ** annually while  Subsaharan Africa recorded ** $456.3B ** in 2019.
+With smartphone penetration at 97%, mobile transactions totaled to ** $43.5B ** annually while  Subsaharan Africa recorded ** $456.3B ** in 2019.
 It's worth pointing out however the M-PESA interface feels pre-internet 10 years later. The software is boring but works. Businesses struggle with integrating the API into their modern systems.
 
 ** Internet 1.0 ** <br/>
@@ -30,34 +30,34 @@ Let's explore two case studies:
   <img src="./images/google_trends.png" alt="'Cheap' 'Best' searches comparison" />
 </div>
 
-** 2. TikTok **. Specifically user retention & the speed they achieved product-market-fit. Average user session is ~294s with each session having >100 content units. Traditional social media trails this. Twitter session is ~114s with 50-75 content units. 
-Tiktok has managed to attain this stickiness from their near-perfect ** recommendation algorithm **. As you use it, gives you the impression it knows you better by the interaction. Same with Spotify. Spotify & TikTok like many digital products serve content using recommendations in-turn boosting the **user experience**, rendering what you **just** want to see.
+** 2. TikTok**. Specifically user retention & the speed they achieved product-market-fit. Average user session is ~294s with each session having >100 content units. Traditional social media trails this. Twitter session is ~114s with 50-75 content units. 
+Tiktok has managed to attain this stickiness from their near-perfect **recommendation algorithm**. As you use it, gives you the impression it knows you better by the interaction. Same with Spotify. Spotify & TikTok like many digital products serve content using recommendations in-turn boosting the **user experience**, rendering what you **just** want to see.
 
 ** Failed Experiments? ** <br/>
 3 years ago (2017), Safaricom launched [Masoko.com](https://www.masoko.com/). The model was sketchy. Safaricom acted as a retailer but it was also opened to 3rd parties. However, they cut 3rd party vendors in November 2019, with a new revamp site that is still [awful](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.masoko.com%2F).<br/> What went wrong? <br/> E-commerce is hard in Africa. Some facts & numbers to back this:
 - Purchase power is low: **$42** is the average amount consumers spend online annually in Kenya. Globally that amount is **$2,594** for the same period.
-- Last-mile challenges - Cost of transporting goods in sub Saharan countries is 5x (per unit distance) in some sub-Saharan African countries compared to the US.
+- Last-mile challenges - Cost of transporting goods in sub-Saharan countries is 5x (per unit distance) in some sub-Saharan African countries compared to the US.
 
 Last year, the retail revenue was **$20B**, but e-commerce has managed to capture **$640M**. That is **3%**. Most consumers bought Electronics & Media (**$430M**) more than any other product category.
-Copying & relying on traditional modes to E-Commerce won't be  viable for the current market, or is it? Amazon ranks as the 13th popular site in Kenya, 2 spots ahead of Jumia.
+Copying & relying on traditional modes to E-Commerce won't be viable for the current market, or is it? Amazon ranks as the 13th popular site in Kenya, 2 spots ahead of Jumia.
 
 But this doesn't mean it's impossible. 
 
-** Platforms & Aggregators ** <br/>
-One distinction we need to make is between **Aggregators** and ** Platforms **. An aggregator sits between the user and service providers. They own the user & scale the relationship. They help users & suppliers find each other. An example is Google. Google aggregates users who come on the site to look for information. They sell these users to relevant advertisers. The main revenue is from advertising.
+** Platforms & Aggregators** <br/>
+One distinction we need to make is between **Aggregators** and ** Platforms**. An aggregator sits between the user and service providers. They own the user & scale the relationship. They help users & suppliers find each other. An example is Google. Google aggregates users who come on the site to look for information. They sell these users to relevant advertisers. The main revenue is from advertising.
 A Platform from Bill Gates quote is 'when the economic value of everybody that uses it, exceeds the value of the company that creates it'. 
 An example is Apple. They sell phones but they create much greater value from the apps via the app store. It's a whole economy.<br/> Here is an illustration by <a href="https://stratechery.com/">Ben Thompson</a> on the difference.
 <div className="Image__Small">
   <img src="./images/platform-vs-aggregator.jpg" alt="Aggregator,platform comparison" />
 </div>
 
-Platforms lets its users and customers shine. My favorite analogy is **Platforms are enablers while Aggregators are regulators **.<br/>
+Platforms let their users and customers shine. My favorite analogy is **Platforms are enablers while Aggregators are regulators**.<br/>
 
 ** Post-mortem **<br/>
 At this point, we need to answer two questions: <br/>
 1. Was/Is Masoko an aggregator or a platform? <br/>
 2. What are the alternative paths for the product? <br/>
-My answer to the first question: an **aggregator**.<br/> Did suppliers gain any more benefits than listings? Did the users get any more value than being connected to suppliers? <br/> Users churned to classified sites like [Jiji](https://jiji.co.ke/) & [PigiaMe](https://www.pigiame.co.ke/), it's far better competitors with superior product & catalogue. 
+My answer to the first question: an **aggregator**.<br/> Did suppliers gain any more benefits than listings? Did the users get any more value than being connected to suppliers? <br/> Users churned to classified sites like [Jiji](https://jiji.co.ke/) & [PigiaMe](https://www.pigiame.co.ke/), it's far better competitors with superior product & catalog. 
 
 ### The Marketplace <br/>
 What are the alternative paths? 
@@ -68,7 +68,7 @@ Low-income consumers are underserved by 'traditional' e-commerce models which ai
 One important feature in these shops is the presence of an MPESA agent(s). Safaricom has managed to work with the small local shops seamlessly when it comes to money transfer. <br/>
 
 ** The Opportunity ** <br/>
-The same way banking experience of the middle to low-income was improved, the shopping experience too can. The need for an ** Online to Offline platform ** massive. <br/>
+The same way banking experience of the middle to low-income was improved, the shopping experience too can. The need for an ** Online to Offline platform** is massive. <br/>
 Let's envision how this platform could look like:
  1. 3rd Party centric
  2. Data-Driven
@@ -89,17 +89,17 @@ Illustration from <a href="https://a16z.com/">a16z</a>
 
 ** 2. Data-Driven ** <br/>
 Good data creates better recommendation systems. Better recommendations create the best user experience. TikTok overstates this. Pre-Internet, customers didn't matter much. Their aggregation at scale pushed consumers to first priority. <br/>
-** The gold mine **:  Got a date tomorrow? Safaricom knows it. Need an overdraft to sort the bill? M-PESA got you.  <br/>
+** The gold mine**:  Got a date tomorrow? Safaricom knows it. Need an overdraft to sort the bill? M-PESA got you.  <br/>
 Safaricom through its services has managed to control the financial, communication & the internet. They are the gatekeepers. Such data is utilitarian in retail. With users looking for the best services/products, the platform can attain a buying decision coordination that's unmatched, retaining users & suppliers. Data is the business, everything else is a means.
 
 ** 3. An Eco-System ** <br/>
-It's tough to build a platform that fulfills all consumers/suppliers need. An open platform where developers & partners can build upon & integrate with the core platform is essential. As well as aligning the economics to incentivize this. The network effects is two-edged. Developers build (micro-apps) on the platform attracting users, which in-turn attracted developers. Again, once this wheel starts rolling, it's extremely hard to compete with. An ecosystem is more powerful than platform lock-ins. Apple & WeChat have perfected this.
+It's tough to build a platform that fulfills all consumers/suppliers need. An open platform where developers & partners can build upon & integrate with the core platform is essential. As well as aligning the economics to incentivize this. The network effects are double-edged. Developers build (micro-apps) on the platform attracting users, which in-turn attracted developers. Again, once this wheel starts rolling, it's extremely hard to compete with. An ecosystem is more powerful than platform lock-ins. Apple & WeChat have perfected this.
 
 
 What are the advantages and moats for such a platform?
 #### Advantages
 1. Network-Effects. (discussed below)
-2. Capital Efficient: No need to setup warehouses & inventory, near-zero cost of acquiring users & suppliers since they're already captured in M-PESA.
+2. Capital Efficient: No need to set up warehouses & inventory, near-zero cost of acquiring users & suppliers since they're already captured in M-PESA.
 3. Unlimited selection of products: Everything you need can be curated. Credit can also be provided to either the user to shop or the supplier to stock. 
 4. Community: With supercomputers in our pockets, most of the work will be offset to the community using the platform. Since it provides a win-win situation, everyone will work to improve the ecosystem.
 
