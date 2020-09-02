@@ -64,7 +64,7 @@ What are the alternative paths?
 Let's explore the cards -- no pun intended -- in Safaricom hands. 
 
 ** Consumer Behavior ** <br/>
-Low-income consumers are underserved by 'traditional' e-commerce models which aim for upper-middle to elite consumers. For consumers in sub-Saharan Africa, shopping is a daily/weekly endeavor. Instead of large malls, the retail sector is dominated by small local shops (‘Dukas’), line shop kiosks, table-top kiosks, market & roadside stalls mom-and-pop shops. The quantity is low but the **frequency** is high giving them an opportunity to maintain a close working relationship with their customers. Most of these shops don't have any modern form of inventory management, no POS, low cash flow, low margins, and credit needy shopkeepers. <br/>
+Low-income consumers are underserved by 'traditional' e-commerce models which aim for upper-middle to elite consumers. For consumers in sub-Saharan Africa, shopping is a daily/weekly endeavor. Instead of large malls, the retail sector is dominated by small local shops (‘Dukas’), line shop kiosks, table-top kiosks, market & roadside stalls mom-and-pop shops. The quantity is low but the **frequency** is high allowing them to maintain a close working relationship with their customers. Most of these shops don't have any modern form of inventory management, no POS, low cash flow, low margins, and credit needy shopkeepers. <br/>
 One important feature in these shops is the presence of an MPESA agent(s). Safaricom has managed to work with the small local shops seamlessly when it comes to money transfer. <br/>
 
 ** The Opportunity ** <br/>
@@ -76,7 +76,7 @@ Let's envision how this platform could look like:
 
 ** 1. 3rd Party Centric (3P)** <br/>
 This means that Safaricom acts as an enabler, rather than a retailer. Suppliers & retailers can setup up a shop in the platform and list their catalog. 
-(In 2014, Amazon's margin from 3P was ** >85% ** while the 1P was **~25%**) The platform's aim is to drive maximum sales value while providing all the back-office tools needed to the retailers. 
+(In 2014, Amazon's margin from 3P was ** >85% ** while the 1P was **~25%**). The platform aims to drive maximum sales value while providing all the back-office tools needed to the retailers. 
 The platform's revenue will be a function of Gross Merchandise Volume (GMV).
 The network-effects creates a virtuous cycle, like a rolling wheel, that never ends & is hard to escape (explained below in moats).
 
@@ -111,7 +111,5 @@ What are the advantages and moats for such a platform?
 
 #### Final Thoughts
  ** "Of course, you always are bundling and unbundling. You can’t stand still..." ** - Jim Barksdale <br/>
-There is a striking paradox in the technology business. The rich-get-richer and you get wiped out for not innovating. It's the deadliest sin. 
-<br/>
-Safaricom's lack to scale M-PESA to 1.7 billion people unbanked is something between social activism & communism. It hasn't captured the maximum value. These experiments are hard to re-run. 
+There is a striking paradox in the technology business. The rich-get-richer and you get wiped out for not innovating. It's the deadliest sin. <br/>Safaricom's lack to scale M-PESA to 1.7 billion people unbanked is something between social activism & communism. It hasn't captured the maximum value. These experiments are hard to re-run. 
 Sometimes we are overwhelmed by our inability to do complex coordination and describe a future that is different from the present, but we should give it a shot.
