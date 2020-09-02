@@ -72,7 +72,7 @@ Low-income consumers are underserved by 'traditional' e-commerce models which ai
 One important feature in these shops is the presence of an MPESA agent(s). Safaricom has managed to work with the small local shops seamlessly when it comes to money transfer. <br/>
 
 ** The Opportunity ** <br/>
-The same way banking experience of the middle to low-income was improved, the shopping experience too can. The need for an ** Online to Offline platform** is massive. <br/>
+In the same way that the banking experience of the middle to low-income users was improved, their shopping experience too can. The need for an ** Online to Offline platform** is massive. <br/>
 Let's envision how this platform could look like:
  1. 3rd Party centric
  2. Data-Driven
