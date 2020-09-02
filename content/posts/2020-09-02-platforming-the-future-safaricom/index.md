@@ -86,7 +86,7 @@ The network-effects creates a virtuous cycle, like a rolling wheel, that never e
   <img src="./images/effects_wheel.png" alt="Network effects wheel" />
 </div>
 
-Illustration from <a href="https://a16z.com/">a16z</a>
+Illustration from <a href="https://a16z.com/">a16z.</a>
 
 
 ** 2. Data-Driven ** <br/>
@@ -113,5 +113,5 @@ What are the advantages and moats for such a platform?
 
 #### Final Thoughts
  ** "Of course, you always are bundling and unbundling. You can’t stand still..." ** - Jim Barksdale. <br/>
-There is a striking paradox in the technology business. The rich-get-richer and you get wiped out for not innovating. It's the deadliest sin. <br/>Safaricom's lack to scale M-PESA to 1.7 billion people unbanked is something between social activism & communism. It hasn't captured the maximum value. These experiments are hard to re-run. 
+There is a striking paradox in the technology business: The rich-get-richer and you get wiped out for not innovating. It's the deadliest sin. <br/>Safaricom's lack to scale M-PESA to 1.7 billion people unbanked is something between social activism & communism. It hasn't captured the maximum value. These experiments are hard to re-run. 
 Sometimes we are overwhelmed by our inability to do complex coordination and describe a future that is different from the present, but we should give it a shot.
