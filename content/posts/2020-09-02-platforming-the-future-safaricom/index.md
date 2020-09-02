@@ -94,7 +94,7 @@ Illustration from <a href="https://a16z.com/">a16z.</a>
 ** 2. Data-Driven ** <br/>
 Good data creates better recommendation systems. Better recommendations create the best user experience. TikTok overstates this. Pre-Internet, customers didn't matter much. Their aggregation at scale pushed consumers to first priority. <br/>
 ** The gold mine**:  Got a date tomorrow? Safaricom knows it. Need an overdraft to sort the bill? M-PESA got you.  <br/>
-Safaricom through its services has managed to control the financial, communication & the internet. They are the gatekeepers. Such data is utilitarian in retail. With users looking for the best services/products, the platform can attain a buying decision coordination that's unmatched, retaining users & suppliers. Data is the business, everything else is a means.
+Safaricom through its services has managed to control the financial, communication & the internet markets. They are the gatekeepers. Such data is utilitarian in retail. With users looking for the best services/products, the platform can attain a buying decision coordination that's unmatched, retaining users & suppliers. Data is the business, everything else is a means.
 
 ** 3. An Eco-System ** <br/>
 It's tough to build a platform that fulfills all consumers/suppliers need. An open platform where developers & partners can build upon & integrate with the core platform is essential. As well as aligning the economics to incentivize this. The network effects are double-edged. Developers build (micro-apps) on the platform attracting users, which in-turn attracted developers. Again, once this wheel starts rolling, it's extremely hard to compete with. An ecosystem is more powerful than platform lock-ins. Apple & WeChat have perfected this.
