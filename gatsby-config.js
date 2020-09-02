@@ -1,8 +1,5 @@
-const activeEnv =
-  process.env.GATSBY_ACTIVE_ENV || process.env.NODE_ENV || "development"
-console.log(`Using environment config: '${activeEnv}'`)
 require("dotenv").config({
-  path: `.env.${activeEnv}`,
+  path: `.env`,
 })
 
 module.exports = {
@@ -87,6 +84,12 @@ module.exports = {
     },
     {
       resolve: `gatsby-plugin-slug`
+    },
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+        endpoint: process.env.MAILCHIMP_ENDPOINT, // add your MC list endpoint here; see plugin repo for instructions
+      },
     },
   ],
 };

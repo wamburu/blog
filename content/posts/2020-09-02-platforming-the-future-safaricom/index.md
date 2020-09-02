@@ -20,7 +20,9 @@ With smartphone penetration at 97%, mobile transactions totaled to ** $43.5B ** 
 It's worth pointing out however the M-PESA interface feels pre-internet 10 years later. The software is boring but works. Businesses struggle with integrating the API into their modern systems.
 
 ** Internet 1.0 ** <br/>
-The first phase of the internet involved two things: 1) ** Connectivity. ** 2) ** Information Arbitrage. ** <br/> We are almost done connecting everyone online. But is every industry online? Not really. The use-case is just beginning.
+The first phase of the internet involved two things: <br/>
+1. ** Connectivity**. <br/>
+2. **Information Arbitrage**.<br/> We are almost done connecting everyone online. But is every industry online? Not really. The use-case is just beginning.
 Retail is still largely informal and offline. 
 
 ** Internet 2.0 ** <br/>
