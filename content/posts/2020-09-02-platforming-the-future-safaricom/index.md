@@ -2,7 +2,9 @@
 title: 'Platforming the future: Safaricom'
 author: Denzel Wamburu
 date: '2020-09-02'
-excerpt: How Safaricom can platform the future using data &
+excerpt: >-
+  How Safaricom can platform the future of retail using state of the art
+  recommendations, extensive supply chain and payments network.
 hero: images/SAF-OUR-BRAND.png
 ---
 
@@ -110,6 +112,6 @@ What are the advantages and moats for such a platform?
 4. Data & Identity: With the ocean of data Safaricom collects, the possibilities are endless.
 
 #### Final Thoughts
- ** "Of course, you always are bundling and unbundling. You can’t stand still..." ** - Jim Barksdale <br/>
+ ** "Of course, you always are bundling and unbundling. You can’t stand still..." ** - Jim Barksdale. <br/>
 There is a striking paradox in the technology business. The rich-get-richer and you get wiped out for not innovating. It's the deadliest sin. <br/>Safaricom's lack to scale M-PESA to 1.7 billion people unbanked is something between social activism & communism. It hasn't captured the maximum value. These experiments are hard to re-run. 
 Sometimes we are overwhelmed by our inability to do complex coordination and describe a future that is different from the present, but we should give it a shot.
