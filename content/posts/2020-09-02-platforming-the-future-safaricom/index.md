@@ -97,7 +97,7 @@ Good data creates better recommendation systems. Better recommendations create t
 Safaricom through its services has managed to control the financial, communication & the internet markets. They are the gatekeepers. Such data is utilitarian in retail. With users looking for the best services/products, the platform can attain a buying decision coordination that's unmatched, retaining users & suppliers. Data is the business, everything else is a means.
 
 ** 3. An Eco-System ** <br/>
-It's tough to build a platform that fulfills all consumers/suppliers need. An open platform where developers & partners can build upon & integrate with the core platform is essential. As well as aligning the economics to incentivize this. The network effects are double-edged. Developers build (micro-apps) on the platform attracting users, which in-turn attracted developers. Again, once this wheel starts rolling, it's extremely hard to compete with. An ecosystem is more powerful than platform lock-ins. Apple & WeChat have perfected this.
+It's tough to build a platform that fulfills all consumers/suppliers needs. An open & friendly platform where developers & partners can build upon & integrate with the core platform is essential. Economics should be aligned to incentivize this.<br/> The network effects are two sided. Developers build (micro-apps) on the platform attracting users, which in-turn attracted developers. Again, once this wheel starts rolling, it's extremely hard to compete with. An ecosystem is more powerful than platform lock-ins. Apple & WeChat have perfected this.
 
 
 What are the advantages and moats for such a platform?
