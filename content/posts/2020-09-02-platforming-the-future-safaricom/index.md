@@ -17,7 +17,7 @@ Back in the days, there was a notion among bankers that middle to low-income con
 In 2007 the average distance to the nearest bank was 9.2 KM (urban areas). In 2015, the average distance to the nearest M-PESA agent was a mere 1.4 KM with 167,000 agents registered.
 The company IPOed in 2008 with shares at KSH 5 ($0.05). Today they are worth KSH 30 ($0.3), a **6x** return with a market cap of **$10B** (10 times than the largest bank).
 With smartphone penetration at 97%, mobile transactions totaled to ** $43.5B ** annually while  Subsaharan Africa recorded ** $456.3B ** in 2019.
-It's worth pointing out however the M-PESA interface feels pre-internet 10 years later. The software is boring but works. Businesses struggle with integrating the API into their modern systems.
+It's worth pointing out however, the M-PESA interface feels pre-internet 13 years later. The software is boring but works. Businesses struggle with integrating the API into their modern systems.
 
 ** Internet 1.0 ** <br/>
 The first phase of the internet involved two things: <br/>
@@ -115,5 +115,5 @@ What are the advantages and moats for such a platform?
 
 #### Final Thoughts
  ** "Of course, you always are bundling and unbundling. You can’t stand still..." ** - Jim Barksdale. <br/>
-There is a striking paradox in the technology business: The rich-get-richer and you get wiped out for not innovating. It's the deadliest sin. <br/>Safaricom's lack to scale M-PESA to 1.7 billion people unbanked is something between social activism & communism. It hasn't captured the maximum value. These experiments are hard to re-run. 
+There is a striking paradox in the technology business: The rich-get-richer and you get wiped out for not innovating. It's the deadliest sin. <br/>Safaricom's failure to scale M-PESA to 1.7 billion unbanked people is something between social activism & communism. It hasn't captured the maximum value. These experiments are hard to re-run. 
 Sometimes we are overwhelmed by our inability to do complex coordination and describe a future that is different from the present, but we should give it a shot.
