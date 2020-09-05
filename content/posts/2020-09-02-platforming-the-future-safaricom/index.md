@@ -10,6 +10,9 @@ hero: images/SAF-OUR-BRAND.png
 
 ** “Gentlemen, there’s only two ways I know of to make money: bundling and unbundling.” ** - Jim Barksdale
 
+
+** The Great Unbundling: Banking ** <br/>
+
 Safaricom unbundled the big banks in Kenya during the late 00s with mobile money transfer service M-PESA. It's market shares stands at 99% with 35M+ customers.<br/>In this article, I will explore options for what's next for Safaricom from a perspective of where the internet is headed.
 
 ** Success & Market Share ** <br/>
@@ -71,7 +74,7 @@ Let's explore the cards -- no pun intended -- in Safaricom hands.
 Low-income consumers are underserved by 'traditional' e-commerce models which aim for upper-middle to elite consumers. For consumers in sub-Saharan Africa, shopping is a daily/weekly endeavor. Instead of large malls, the retail sector is dominated by small local shops (‘Dukas’), line shop kiosks, table-top kiosks, market & roadside stalls mom-and-pop shops. The quantity is low but the **frequency** is high allowing them to maintain a close working relationship with their customers. Most of these shops don't have any modern form of inventory management, no POS, low cash flow, low margins, and credit needy shopkeepers. <br/>
 One important feature in these shops is the presence of an MPESA agent(s). Safaricom has managed to work with the small local shops seamlessly when it comes to money transfer. <br/>
 
-** The Opportunity ** <br/>
+** The Opportunity: Bundling of Retail ** <br/>
 In the same way that the banking experience of the middle to low-income users was improved, their shopping experience too can. The need for an ** Online to Offline platform** is massive. <br/>
 Let's envision how this platform could look like:
  1. 3rd Party centric
@@ -117,3 +120,5 @@ What are the advantages and moats for such a platform?
  ** "Of course, you always are bundling and unbundling. You can’t stand still..." ** - Jim Barksdale. <br/>
 There is a striking paradox in the technology business: The rich-get-richer and you get wiped out for not innovating. It's the deadliest sin. <br/>Safaricom's failure to scale M-PESA to 1.7 billion unbanked people is something between social activism & communism. It hasn't captured the maximum value. These experiments are hard to re-run. 
 Sometimes we are overwhelmed by our inability to do complex coordination and describe a future that is different from the present, but we should give it a shot.
+
+Thank you for reading.
