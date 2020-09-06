@@ -77,9 +77,9 @@ One important feature in these shops is the presence of an MPESA agent(s). Safar
 ** The Opportunity: Bundling of Retail ** <br/>
 In the same way that the banking experience of the middle to low-income users was improved, their shopping experience too can. The need for an ** Online to Offline platform** is massive. <br/>
 Let's envision how this platform would look like: <br/>
- 1. 3rd Party centric
- 2. Data-Driven
- 3. An Eco-System
+ 1. 3rd Party centric. <br/>
+ 2. Data-Driven. <br/>
+ 3. An Eco-System.
 
 ** 1. 3rd Party Centric (3P)** <br/>
 This means that Safaricom acts as an enabler, rather than a retailer. Suppliers & retailers can setup up a shop in the platform and list their catalog. 
