@@ -13,7 +13,7 @@ hero: images/SAF-OUR-BRAND.png
 
 ** The Great Unbundling: Banking ** <br/>
 
-Safaricom unbundled the big banks in Kenya during the late 00s with mobile money transfer service M-PESA. It's market shares stands at 99% with 35M+ customers.<br/>In this article, I will explore options for what's next for Safaricom from a perspective of where the internet is headed.
+Safaricom unbundled the big banks in Kenya during the late 00s with mobile money transfer service M-PESA. It's market shares stands at 99% with 40M+ customers.<br/>In this article, I will explore options for what's next for Safaricom from a perspective of where the internet is headed.
 
 ** Success & Market Share ** <br/>
 Back in the days, there was a notion among bankers that middle to low-income consumers were twopenny-halfpenny & you couldn't make substantial money banking them. M-PESA confuted this. 
@@ -24,7 +24,7 @@ It's worth pointing out however, the M-PESA interface feels pre-internet 13 year
 
 ** Internet 1.0 ** <br/>
 The first phase of the internet involved two things: <br/>
-1. ** Connectivity**. <br/>
+1. **Connectivity**. <br/>
 2. **Information Arbitrage**.<br/> We are almost done connecting everyone online. But is every industry online? Not really. The use-case is just beginning.
 Retail is still largely informal and offline. 
 
@@ -77,6 +77,7 @@ One important feature in these shops is the presence of an MPESA agent(s). Safar
 ** The Opportunity: Bundling of Retail ** <br/>
 In the same way that the banking experience of the middle to low-income users was improved, their shopping experience too can. The need for an ** Online to Offline platform** is massive. <br/>
 Let's envision how this platform could look like:
+
  1. 3rd Party centric
  2. Data-Driven
  3. An Eco-System

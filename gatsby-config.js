@@ -1,6 +1,6 @@
 require("dotenv").config({
   path: `.env`,
-})
+});
 
 module.exports = {
   siteMetadata: {
@@ -29,10 +29,16 @@ module.exports = {
       {
         name: `linkedin`,
         url: `https://www.linkedin.com/in/wamburu/`,
-      }
+      },
     ],
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: process.env.GA_TRACKING_ID,
+      },
+    },
     {
       resolve: "@narative/gatsby-theme-novela",
       options: {
@@ -50,7 +56,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Denzel Wamburu Logs`,
+        name: `Denzel's LifeLogs`,
         short_name: `Denz W`,
         start_url: `/`,
         background_color: `#fff`,
@@ -61,33 +67,19 @@ module.exports = {
     },
     {
       resolve: `gatsby-plugin-netlify-cms`,
-      options: {
-      },
+      options: {},
     },
     {
-      resolve: `gatsby-plugin-offline`
+      resolve: `gatsby-plugin-offline`,
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: process.env.GA_TRACKING_ID,
-        head: false,
-        anonymize: true,
-        respectDNT: true,
-        pageTransitionDelay: 0,
-        sampleRate: 5,
-        siteSpeedSampleRate: 10,
-        cookieDomain: "wamburu.codes",
-      },
+      resolve: `gatsby-plugin-advanced-sitemap`,
     },
     {
-      resolve: `gatsby-plugin-advanced-sitemap`
+      resolve: `gatsby-plugin-slug`,
     },
     {
-      resolve: `gatsby-plugin-slug`
-    },
-    {
-      resolve: 'gatsby-plugin-mailchimp',
+      resolve: "gatsby-plugin-mailchimp",
       options: {
         endpoint: process.env.MAILCHIMP_ENDPOINT, // add your MC list endpoint here; see plugin repo for instructions
       },
