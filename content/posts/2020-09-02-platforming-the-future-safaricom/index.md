@@ -74,6 +74,13 @@ Let's explore the cards -- no pun intended -- in Safaricom hands.
 Low-income consumers are underserved by 'traditional' e-commerce models which aim for upper-middle to elite consumers. For consumers in sub-Saharan Africa, shopping is a daily/weekly endeavor. Instead of large malls, the retail sector is dominated by small local shops (‘Dukas’), line shop kiosks, table-top kiosks, market & roadside stalls mom-and-pop shops. The quantity is low but the **frequency** is high allowing them to maintain a close working relationship with their customers. Most of these shops don't have any modern form of inventory management, no POS, low cash flow, low margins, and credit needy shopkeepers. <br/>
 One important feature in these shops is the presence of an MPESA agent(s). Safaricom has managed to work with the small local shops seamlessly when it comes to money transfer. <br/>
 
+<div className="Image__Small">
+  <img src="./images/duka.png" alt="Duka" />
+</div>
+
+Example of a Duka with an M-Pesa agent.
+
+
 ** The Opportunity: Bundling of Retail ** <br/>
 In the same way that the banking experience of the middle to low-income users was improved, their shopping experience too can. The need for an ** Online to Offline platform** is massive. <br/>
 Let's envision how this platform would look like: <br/>
