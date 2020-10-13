@@ -8,11 +8,11 @@ excerpt: >-
 hero: images/hello-i-m-nik-QtTKfb23nBc-unsplash.jpg
 ---
 
-<span>Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Hello I'm Nik 🎞</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Hello I'm Nik 🎞</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
 
 Am an optimist. I have strong convictions about the future. A definite optimism; where **innovations** will give us a better, prosperous, freer & longer lives. Am actively working on a better future. I refuse to accept that an innovation-driven future is a childish illusion.
 
-With this it is important to highlight three believes:
+With this, let me highlight three believes:
 
 - Dissatisfaction is important: Not the pessimistic kind, but the constructive one. Accepting what we have around us is OK but it can better & improved.
 - Imaginative people are not a scarce resource, but courage is. People always have some idea of a problem, but for the majority entrepreneurship is risky.
@@ -29,17 +29,17 @@ In January 2019, Safaricom launched Fuliza. An overdraft credit service. Recent 
 - 395.2% annual interest rate. 1.083% daily rate.
 - 1.8% default rate.
 
-At 600 days old (Jan 2019 - Jun 2020), they are on track to give upwards of **\$3B** in loans by end of the year. Half of what all local banks gave in personal loans last year (**\$1.76B**). Rough calculations of revenue from Fuliza, assuming averagely people pay the loans in a week, 3\*0.07 = $0.21B = **$210M**. <br/>Assuming \$800M revenue from Mpesa doesn't drop, they are on track to rake **$1B** in annual revenue! Also worth noting, Ant group which operates Alipay is going public with a valuation of >$200B, credit accounts for 40% of their revenues. Mpesa has taken the personal loans market from banks and up is the direction for Fuliza numbers.
+At 600 days old (Jan 2019 - Jun 2020), they are on track to give upwards of **\$3B** in loans by end of the year. Half of what all local banks gave in personal loans last year (**\$1.76B**). Rough calculations of revenue from Fuliza, assuming averagely people pay the loans in a week, 3\*0.07 = $0.21B = **$210M**. <br/>Assuming \$800M revenue from Mpesa doesn't drop, they are on track to rake **$1B** in annual revenue! <br/>
+Also worth noting, Ant group which operates Alipay is going public with a valuation of >$200B, credit accounts for 40% of their revenues. Mpesa has taken the personal loans market from banks and up is the direction for Fuliza numbers.
 
 **Valuation** <br/>
-So what's Mpesa valued at? Benchmarking from other Fintech companies which are valued at 13x - 22x of their revenues, Mpesa market cap might worth over $10B i.e 13 X 800M = **$10.4B**. <br/>
-From my **[previous](https://wamburu.codes/Platforming-the-future:-Safaricom)\*\* post, I highlighted that Safaricom, the parent company of Mpesa, the market cap is at \$10B - calculations from stocks traded - but I think this might be grossly undervalued by 1/3 - 1/2. Mpesa accounts for 1/3 of Safaricom's revenue. <br/>Happy to get a divergent opinion on this.
+So what's Mpesa valued at? Benchmarking from other Fintech companies which are valued at 13x - 22x of their revenues, Mpesa market cap might worth over $10B i.e 13 X 800M = **$10.4B\*\*. <br/>
+From my [previous](https://wamburu.codes/Platforming-the-future:-Safaricom) post, I highlighted that Safaricom, the parent company of Mpesa, the market cap is at \$10B - calculations from stocks traded - but I think this might be grossly undervalued by 1/3 - 1/2. Mpesa accounts for 1/3 of Safaricom's revenue. <br/>Happy to get a divergent opinion on this.
 
 **Missed 1 Trillion Dollar Opportunity** <br/>
 The valuation is big for a 50M person local market but a fraction on a global scale. In contrast, their competitor's valuations are way bigger. Market cap for Visa is at **\$401.373B** & Paypal at **\$231.46B**.
-
 Posit a world where the 2.5B unbanked people are served with Mpesa. What would be the value of such a global product?
-Mpesa annually makes **~\$30 per user** ($1000M/33.1M), assuming all factors constant, the total global revenue would be 2.5 * 30 = **$75B**. Sticking with our 13x revenue, Mpesa valuation will be **\$975B\*\*. <br/>
+Mpesa annually makes **~\$30 per user** ($1000M/33.1M), assuming all factors constant, the total global revenue would be 2.5 * 30 = **$75B**. Sticking with our 13x revenue, Mpesa valuation will be **\$975B\*\*.
 2010 - 2020 has been a lost decade for Mpesa and it begs the question of what went/is going wrong? I beg to propose several theories.
 
 ### Theories on missed opportunity
