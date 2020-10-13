@@ -33,18 +33,18 @@ At 600 days old (Jan 2019 - Jun 2020), they are on track to give upwards of **\$
 Also worth noting, Ant group which operates Alipay is going public with a valuation of >$200B, credit accounts for 40% of their revenues. Mpesa has taken the personal loans market from banks and up is the direction for Fuliza numbers.
 
 **Valuation** <br/>
-So what's Mpesa valued at? Benchmarking from other Fintech companies which are valued at 13x - 22x of their revenues, Mpesa market cap might worth over $10B i.e 13 X 800M = **$10.4B\*\*. <br/>
+So what's Mpesa valued at? Benchmarking from other Fintech companies which are valued at 13x - 22x of their revenues, Mpesa market cap might worth over $10B i.e 13 X 800M = **\$10.4B**.
 From my [previous](https://wamburu.codes/Platforming-the-future:-Safaricom) post, I highlighted that Safaricom, the parent company of Mpesa, the market cap is at \$10B - calculations from stocks traded - but I think this might be grossly undervalued by 1/3 - 1/2. Mpesa accounts for 1/3 of Safaricom's revenue. <br/>Happy to get a divergent opinion on this.
 
 **Missed 1 Trillion Dollar Opportunity** <br/>
-The valuation is big for a 50M person local market but a fraction on a global scale. In contrast, their competitor's valuations are way bigger. Market cap for Visa is at **\$401.373B** & Paypal at **\$231.46B**.
+The valuation is big for a 50M person local market but a fraction on a global scale. In contrast, their competitor's valuations are way bigger. Market cap for Visa is at **\$401.373B** & Paypal at **\$231.46B**. <br/>
 Posit a world where the 2.5B unbanked people are served with Mpesa. What would be the value of such a global product?
-Mpesa annually makes **~\$30 per user** ($1000M/33.1M), assuming all factors constant, the total global revenue would be 2.5 * 30 = **$75B**. Sticking with our 13x revenue, Mpesa valuation will be **\$975B\*\*.
+Mpesa annually makes **~\$30 per user** ($1000M/33.1M), assuming all factors constant, the total global revenue would be 2.5 * 30 = <b>$75B</b>. Sticking with our 13x revenue, Mpesa valuation would be <b>\$975.2B</b>. <br/>
 2010 - 2020 has been a lost decade for Mpesa and it begs the question of what went/is going wrong? I beg to propose several theories.
 
 ### Theories on missed opportunity
 
-** 1. Government Intervention** <br/>
+** 1. Government Interventionism** <br/>
 35% of the Safaricom is government-owned. Governments are weird. My favorite dislike is how we assume it should be structured. We often refer to the government as an engine, static, and Newtonian. Like a rule in physics, say gravity. But this is wrong. Governments should be a living thing, ever-evolving, dynamic & more Darwinian. With this thinking, what are the implications in the governance of Safaricom? <br/>
 Politics starts playing a bigger role & innovation takes a back seat. Individual incentives look better than the organization's incentives. Politeness is often prioritized over success. It's tough to expect the political junkies to think outside the window or anything beyond the present. <br/>
 _'You've got local territory why expand? It's daring, risky, tiresome, and unpredictable, let's just be comfortable. We don't want to threaten our main tax contributor.'_ <br/>
