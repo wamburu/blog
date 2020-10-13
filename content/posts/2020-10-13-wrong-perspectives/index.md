@@ -33,7 +33,7 @@ At 600 days old (Jan 2019 - Jun 2020), they are on track to give upwards of **\$
 Also worth noting, Ant group which operates Alipay is going public with a valuation of >$200B, credit accounts for 40% of their revenues. Mpesa has taken the personal loans market from banks and up is the direction for Fuliza numbers.
 
 **Valuation** <br/>
-So what's Mpesa valued at? Benchmarking from other Fintech companies which are valued at 13x - 22x of their revenues, Mpesa market cap might worth over $10B i.e 13 X 800M = **\$10.4B**.
+So what's Mpesa valued at? Benchmarking from other Fintech companies which are valued at 13x - 22x of their revenues, Mpesa market cap might worth over $10B i.e 13 X 800M = **\$10.4B**. <br/>
 From my [previous](https://wamburu.codes/Platforming-the-future:-Safaricom) post, I highlighted that Safaricom, the parent company of Mpesa, the market cap is at \$10B - calculations from stocks traded - but I think this might be grossly undervalued by 1/3 - 1/2. Mpesa accounts for 1/3 of Safaricom's revenue. <br/>Happy to get a divergent opinion on this.
 
 **Missed 1 Trillion Dollar Opportunity** <br/>
