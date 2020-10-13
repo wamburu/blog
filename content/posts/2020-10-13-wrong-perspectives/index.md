@@ -3,8 +3,8 @@ title: Wrong Perspectives
 author: Denzel Wamburu
 date: "2020-10-14"
 excerpt: >-
-  M-PESA is a wrong example for a nation to benchmark it's innovation & startup
-  culture.
+    M-PESA is a wrong example for a nation to benchmark it's innovation & startup
+    culture.
 hero: images/hello-i-m-nik-QtTKfb23nBc-unsplash.jpg
 ---
 
@@ -14,9 +14,9 @@ Am an optimist. I have strong convictions about the future. A definite optimism;
 
 With this, let me highlight three believes:
 
-- Dissatisfaction is important: Not the pessimistic kind, but the constructive one. Accepting what we have around us is OK but it can better & improved.
-- Imaginative people are not a scarce resource, but courage is. People always have some idea of a problem, but for the majority entrepreneurship is risky.
-- There is no formula for innovation & there never will be. They benefit largely from randomness.
+-   Dissatisfaction is important: Not the pessimistic kind, but the constructive one. Accepting what we have around us is OK but it can better & improved.
+-   Imaginative people are not a scarce resource, but courage is. People always have some idea of a problem, but for the majority entrepreneurship is risky.
+-   There is no formula for innovation & there never will be. They benefit largely from randomness.
 
 Perspectives are important and their influences have a big impact on people & society. In this case, I would like to explore why Mpesa is a wrong perspective to think about innovation. <br/>
 In Kenya, the success of M-Pesa is hard to ignore. It has transformed lives and the impact is unquestionable. This post is going to highlight why Mpesa is a terrible example to benchmark and influence an ecosystem.
@@ -25,9 +25,9 @@ This is part one of a series where I share my perspective & notes on innovations
 **Revenues & Debt** <br/>
 In January 2019, Safaricom launched Fuliza. An overdraft credit service. Recent half-year numbers are really impressive:
 
-- ~\$10M in daily loans.
-- 395.2% annual interest rate. 1.083% daily rate.
-- 1.8% default rate.
+-   ~\$10M in daily loans.
+-   395.2% annual interest rate. 1.083% daily rate.
+-   1.8% default rate.
 
 At 600 days old (Jan 2019 - Jun 2020), they are on track to give upwards of **\$3B** in loans by end of the year. Half of what all local banks gave in personal loans last year (**\$1.76B**). Rough calculations of revenue from Fuliza, assuming averagely people pay the loans in a week, 3\*0.07 = $0.21B = **$210M**. <br/>Assuming \$800M revenue from Mpesa doesn't drop, they are on track to rake **$1B** in annual revenue! <br/>
 Also worth noting, Ant group which operates Alipay is going public with a valuation of >$200B, credit accounts for 40% of their revenues. Mpesa has taken the personal loans market from banks and up is the direction for Fuliza numbers.
