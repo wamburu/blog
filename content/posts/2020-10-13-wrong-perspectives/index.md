@@ -68,3 +68,7 @@ M-Pesa has **received all the incentives from the government**, it doesn't get a
 Therefore it is terrible narrative to use Mpesa as a go-to idea on how government can help nurture innovation. Governments are inimical to innovation. At best they tend to maintain a comfortable low-innovation equilibrium. <br/> Interventionism is a Faustian bargain, short term gains, long term pains. They give us the idea that the government should solve our problems but in retrospect, the government is the problem. In this case, Mpesa lost sight of what matters in terms of product, market and impact.
 
 Thank you for reading.
+
+More of this topic:
+
+-   [Platforming the future: Safaricom](https://wamburu.codes/Platforming-the-future:-Safaricom)
