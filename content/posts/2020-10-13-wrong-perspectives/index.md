@@ -30,7 +30,7 @@ In January 2019, Safaricom launched Fuliza. An overdraft credit service. Recent 
 -   395.2% annual interest rate. 1.083% daily rate.
 -   1.8% default rate.
 
-At 600 days old (Jan 2019 - Jun 2020), they are on track to give upwards of **\$3B** in loans by end of the year. Half of what all local banks gave in personal loans last year (**\$1.76B**). Rough calculations of revenue from Fuliza, assuming averagely people pay the loans in a week, 3\*0.07 = $0.21B = **$210M**. <br/>Assuming \$800M revenue from Mpesa doesn't drop, they are on track to rake **$1B** in annual revenue! <br/>
+At 600 days old (Jan 2019 - Jun 2020), they are on track to give upwards of **\$3B** in loans by end of the year. Double of what all local banks gave in personal loans last year (**\$1.76B**). Rough calculations of revenue from Fuliza, assuming averagely people pay the loans in a week, 3\*0.07 = $0.21B = **$210M**. <br/>Assuming \$800M revenue from Mpesa doesn't drop, they are on track to rake **$1B** in annual revenue! <br/>
 Also worth noting, Ant group which operates Alipay is going public with a valuation of >$200B, credit accounts for 40% of their revenues. Mpesa has taken the personal loans market from banks and up is the direction for Fuliza numbers.
 
 **Valuation** <br/>
