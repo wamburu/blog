@@ -40,7 +40,7 @@ Mpesa accounts for 1/3 of Safaricom's revenue. <br/>
 Happy to get a divergent opinion on this.
 
 **Missed 1 Trillion Dollar Opportunity** <br/>
-The valuation is big for a 50M person local market but a fraction on a global scale. In contrast, their competitor's valuations are way bigger. Market cap for Visa is at **\$401.373B** & Paypal at **\$231.46B**. <br/>
+**10B** valuation is big for a 50M person local market but a fraction on a global scale. In contrast, their competitor's valuations are way bigger. Market cap for Visa is at **\$401.373B** & Paypal at **\$231.46B**. <br/>
 Posit a world where the 2.5B unbanked people are served with Mpesa. What would be the value of such a global product?
 Mpesa annually makes **~\$30 per user** ($1000M (revenue)/33.1M (active users)). Assuming all factors constant, the total global annual revenue would be 2.5 * 30 = <b>$75B</b>. Sticking with our 13x revenue, Mpesa valuation would be <b>\$975.2B</b>. <br/>
 2010 - 2020 has been a lost decade for Mpesa and it begs the question of what went/is going wrong? I beg to propose several theories.
