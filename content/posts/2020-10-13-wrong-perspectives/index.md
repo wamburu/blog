@@ -1,11 +1,12 @@
----
+b---
 title: Wrong Perspectives
 author: Denzel Wamburu
 date: "2020-10-14"
 excerpt: >-
-    M-PESA is a wrong example for a nation to benchmark it's innovation & startup
-    culture.
+M-PESA is a wrong example for a nation to benchmark it's innovation & startup
+culture.
 hero: images/hello-i-m-nik-QtTKfb23nBc-unsplash.jpg
+
 ---
 
 Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Hello I'm Nik 🎞</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
@@ -21,7 +22,7 @@ Perspectives are important and their influences have a big impact on people & so
 In Kenya, the success of M-Pesa is hard to ignore. It has transformed lives and the impact is unquestionable. This post is going to highlight why Mpesa is a terrible example to benchmark and influence an ecosystem.
 This is part one of a series where I share my perspective & notes on innovations.
 
-NB: All currency here are denoted in Dollars (\$), and there is a huge oversimplication of reality. <br/>
+NB: All currency here are denoted in Dollars (\$), and there is a huge oversimplification of reality. <br/>
 
 **Revenues & Debt** <br/>
 In January 2019, Safaricom launched Fuliza. An overdraft credit service. Recent half-year numbers are really impressive:
@@ -69,6 +70,6 @@ Therefore it is terrible narrative to use Mpesa as a go-to idea on how governmen
 
 Thank you for reading.
 
-More of this topic:
+More of this topic: </br>
 
 -   [Platforming the future: Safaricom](https://wamburu.codes/Platforming-the-future:-Safaricom)
