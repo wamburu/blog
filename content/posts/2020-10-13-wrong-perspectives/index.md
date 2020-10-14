@@ -48,7 +48,7 @@ Mpesa annually makes **~\$30 per user** ($1000M (revenue)/33.1M (active users)).
 ### Theories on missed opportunity
 
 ** 1. Government Interventionism** <br/>
-35% of the Safaricom is government-owned. Governments are weird. My favorite dislike is how we assume it should be structured. We often refer to the government as an engine, static, and Newtonian. Like a rule in physics, say gravity. But this is wrong. Governments should be a living thing, ever-evolving, dynamic & more Darwinian. With this thinking, what are the implications in the governance of Safaricom? <br/>
+35% of the Safaricom is government-owned. Governments are weird. My favorite dislike is how we assume it should be structured. We often refer to the government as an engine, static, and Newtonian like a rule in physics, say gravity. But this is wrong. Governments should be a living thing, ever-evolving, dynamic & more Darwinian. With this thinking, what are the implications in the governance of Safaricom? <br/>
 Politics starts playing a bigger role & innovation takes a back seat. Individual incentives look better than the organization's incentives. Politeness is often prioritized over success. It's tough to expect the political junkies to think outside the window or anything beyond the present. <br/>
 _'You've got local territory why expand? It's daring, risky, tiresome, and unpredictable, let's just be comfortable. We don't want to threaten our main tax contributor.'_ <br/>
 This is not unique, you look around and all government ran industries are less profitable, less efficient, and less innovative. From transport, energy, agriculture, the list goes on.
@@ -65,6 +65,10 @@ A far fetched theory, maybe Mpesa has failed to scale globally because there is 
 
 There is a huge difference in how innovation was brought to the market 100 years ago and currently. The internet broke the barriers that existed previously. It is faster to build and iterate. <br/>
 M-Pesa has **received all the incentives from the government**, it doesn't get any better than this. They are a clear unregulated monopoly despite refuting this. They are a bank but are treated like a software product, so no bank like fees. But they are still at **\$10B**. The deathmatch in Fintech that Africa & the world is experiencing is a revolution that Mpesa brought but has failed to capture maximum value. <br/>
-Therefore it is terrible narrative to use Mpesa as a go-to idea on how government can help nurture innovation. Governments are inimical to innovation. At best they tend to maintain a comfortable low-innovation equilibrium. Interventionism is a Faustian bargain, short term gains, long term pains. They give us the idea that the government should solve our problems but in retrospect, the government is the problem. In this case, Mpesa lost sight of what matters in terms of product, market and impact.
+Therefore it is terrible narrative to use Mpesa as a go-to idea on how government can help nurture innovation. Governments are inimical to innovation. At best they tend to maintain a comfortable low-innovation equilibrium. <br/> Interventionism is a Faustian bargain, short term gains, long term pains. They give us the idea that the government should solve our problems but in retrospect, the government is the problem. In this case, Mpesa lost sight of what matters in terms of product, market and impact.
 
 Thank you for reading.
+
+More of this topic:
+
+-   [Platforming the future: Safaricom](https://wamburu.codes/Platforming-the-future:-Safaricom)
