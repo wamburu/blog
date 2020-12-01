@@ -70,6 +70,6 @@ Therefore it is terrible narrative to use Mpesa as a go-to idea on how governmen
 
 Thank you for reading.
 
-More of this topic: </br>
+More of this topic:
 
 -   [Platforming the future: Safaricom](https://wamburu.codes/Platforming-the-future:-Safaricom)
