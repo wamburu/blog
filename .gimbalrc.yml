@@ -1,0 +1,113 @@
+# Specify audits to run. Also include any plugins (like axe)
+audits:
+  - axe
+  - size
+  - lighthouse
+  - heap-snapshot
+  - unused-source
+  - source-map-explorer
+
+configs:
+  logger:
+    level: 1
+  comment:
+    # Only show failures in GitHub PR comments.
+    # Useful to pinpoint why a build has failed
+    onlyFailures: false
+
+  # Heap snapshot settings
+  heap-snapshot:
+    threshold:
+      Documents: 11
+      Frames: 5
+      JSHeapTotalSize: 13356000
+      JSHeapUsedSize: 10068000
+      Nodes: 800
+      RecalcStyleCount: 15
+      LayoutCount: 15
+
+  # Lighthouse settings
+  lighthouse:
+    skipAudits:
+      - uses-http2
+      - redirects-http
+      - uses-long-cache-ttl
+      - uses-text-compression
+    outputHtml: ./gimbal-artifacts/lighthouse.html
+    threshold:
+      accessibility: 90
+      'best-practices': 92
+      performance: 64
+      pwa: 52
+      seo: 85
+
+    #File and directory size settings
+  size:
+    threshold:
+      - path: ./build/
+        maxSize: 18 MB
+
+  # Unused source settings
+  unused-source:
+    threshold:
+      - path: '**/*(private).*.chunk.css'
+        maxSize: 60%
+      - path: '**/!(private).*.chunk.css'
+        maxSize: 60%
+      - path: '**/*([0-9]).*.chunk.js'
+        maxSize: 90%
+      - path: '**/!([0-9]|main).*.chunk.js'
+        maxSize: 45%
+      - path: '**/(main).*.chunk.js'
+        maxSize: 50%
+
+# Locations of reports. Useful for storing artifacts in CI
+outputs:
+  # Only show failures in CLI
+  cli:
+    onlyFailures: false
+  html: ./gimbal-artifacts/results.html
+  json: ./gimbal-artifacts/results.json
+  markdown: ./gimbal-artifacts/results.md
+
+# Plugins
+plugins:
+  - plugin: '@modus/gimbal-plugin-last-value'
+    saveOnlyOnSuccess: true
+
+  - plugin: '@modus/gimbal-plugin-sqlite'
+    lastValue: true
+
+  - plugin: '@modus/gimbal-plugin-axe'
+    thresholds:
+      aria-allowed-attr: critical
+      color-contrast: serious
+      landmark-one-main: moderate
+      landmark-complementary-is-top-level: moderate
+      meta-viewport: critical
+      region: moderate
+      page-has-heading-one: moderate
+      scrollable-region-focusable: moderate
+
+  - plugin: '@modus/gimbal-plugin-source-map-explorer'
+    bundles:
+      - path: '**/main.*.js'
+        thresholds:
+          App.js: 450 B
+          index.js: 100 B
+          logo.svg: 250 B
+          serviceWorker.js: 300 B
+          <unmapped>: 150 B
+      - path: '**/2.*.js'
+        thresholds:
+          react/index.js: 50 B
+          object-assign/index.js: 1 KB
+          react-dom/index.js: 300 B
+          react/cjs/react.production.min.js: 7 KB
+          react-dom/cjs/react-dom.production.min.js: 110 KB
+          scheduler/index.js: 50 B
+          scheduler/cjs/scheduler.production.min.js: 5 KB
+          webpack/buildin/global.js: 150 B
+          <unmapped>: 150 B
+      - '!precache-manifest*'
+      - '!service-worker.js'
