@@ -3,7 +3,7 @@ title: Frontend budget checks with Github Actions Pt.1
 author: Denzel Wamburu
 date: "2020-12-01"
 excerpt: A walkthrough to add performance budget checks to your build process.
-hero: images/undraw_File_bundle_xl7g (1).png
+hero: images/undraw_File_bundle_xl7g.png
 ---
 
 The [performance](https://web.dev/why-speed-matters/) of a webapp is the lifeline of a digital business.

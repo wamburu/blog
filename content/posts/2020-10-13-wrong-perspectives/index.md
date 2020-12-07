@@ -1,15 +1,14 @@
-b---
+---
 title: Wrong Perspectives
 author: Denzel Wamburu
 date: "2020-10-14"
 excerpt: >-
-M-PESA is a wrong example for a nation to benchmark it's innovation & startup
-culture.
+    M-PESA is a wrong example for a nation to benchmark it's innovation & startup
+    culture.
 hero: images/hello-i-m-nik-QtTKfb23nBc-unsplash.jpg
-
 ---
 
-Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Hello I'm Nik 🎞</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Hello I'm Nik 🎞</a> on <a href="https://unsplash.com/">Unsplash</a>
 
 I am an optimist with strong convictions about the future. I embody the kind of definite optimism which believes that **innovations** will give us better, more prosperous, freer & longer lives. Am actively working on a better future. I refuse to accept that an innovation-driven future is a childish illusion. <br/>
 With this, let me highlight three beliefs:

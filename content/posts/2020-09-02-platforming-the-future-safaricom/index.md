@@ -3,8 +3,8 @@ title: "Platforming the future: Safaricom"
 author: Denzel Wamburu
 date: "2020-09-02"
 excerpt: >-
-  How Safaricom can platform the future of retail using state of the art
-  recommendations, extensive supply chain and payments network.
+    How Safaricom can platform the future of retail using state of the art
+    recommendations, extensive supply chain and payments network.
 hero: images/SAF-OUR-BRAND.png
 ---
 
@@ -44,8 +44,8 @@ Tiktok has managed to attain this stickiness from their near-perfect **recommend
 ** Failed Experiments? ** <br/>
 3 years ago (2017), Safaricom launched [Masoko.com](https://www.masoko.com/). The model was sketchy. Safaricom acted as a retailer but it was also opened to 3rd parties. However, they cut 3rd party vendors in November 2019, with a new revamp site that is still [awful](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.masoko.com%2F).<br/> What went wrong? <br/> E-commerce is hard in Africa. Some facts & numbers to back this:
 
-- Purchase power is low: **\$42** is the average amount consumers spend online annually in Kenya. Globally that amount is **\$2,594** for the same period.
-- Last-mile challenges - Cost of transporting goods in sub-Saharan countries is 5x (per unit distance) in some sub-Saharan African countries compared to the US.
+-   Purchase power is low: **\$42** is the average amount consumers spend online annually in Kenya. Globally that amount is **\$2,594** for the same period.
+-   Last-mile challenges - Cost of transporting goods in sub-Saharan countries is 5x (per unit distance) in some sub-Saharan African countries compared to the US.
 
 Last year, the retail revenue was **\$20B**, but e-commerce has managed to capture **\$640M**. That is **3%**. Most consumers bought Electronics & Media (**\$430M**) more than any other product category.
 Copying & relying on traditional modes to E-Commerce won't be viable for the current market, or is it? Amazon ranks as the 13th popular site in Kenya, 2 spots ahead of Jumia.
