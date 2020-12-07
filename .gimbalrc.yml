@@ -73,6 +73,7 @@ plugins:
     - plugin: "@modus/gimbal-plugin-last-value"
       saveOnlyOnSuccess: false
 
+
     - plugin: "@modus/gimbal-plugin-axe"
       thresholds:
           aria-allowed-attr: critical
