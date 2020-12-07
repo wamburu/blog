@@ -57,7 +57,7 @@ jobs:
 Create a workflow using the following configuration:
 
 **2. Gimbal Config**
-Gimbal comes with native audits: `size`, `lighthouse`, `heap-snapshot` & `unused-source`.
+Gimbal comes with the following native audits: `size`, `lighthouse`, `heap-snapshot` & `unused-source`.
 
 ```
 # Audit types to run
