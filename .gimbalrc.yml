@@ -6,7 +6,6 @@ audits:
     - heap-snapshot
     - unused-source
     - source-map-explorer
-    - seo
 
 configs:
     logger:
@@ -67,17 +66,13 @@ outputs:
     # Only show failures in CLI
     cli:
         onlyFailures: false
-    html: ./gimbal-artifacts/results.html
-    json: ./gimbal-artifacts/results.json
     markdown: ./gimbal-artifacts/results.md
 
 # Plugins
 plugins:
     - plugin: "@modus/gimbal-plugin-last-value"
-      saveOnlyOnSuccess: true
+      saveOnlyOnSuccess: false
 
-    - plugin: "@modus/gimbal-plugin-sqlite"
-      lastValue: true
 
     - plugin: "@modus/gimbal-plugin-axe"
       thresholds:
@@ -112,3 +107,9 @@ plugins:
                 <unmapped>: 150 B
           - "!precache-manifest*"
           - "!service-worker.js"
+
+    - plugin: "@modus/gimbal-plugin-sqlite"
+      enabled: true
+      commandPrefix:
+          - wamburu-blog
+      lastValue: true
