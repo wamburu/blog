@@ -14,7 +14,7 @@ configs:
         # Only show failures in GitHub PR comments.
         # Useful to pinpoint why a build has failed
         onlyFailures: false
-
+    buildDir: build
     # Heap snapshot settings
     heap-snapshot:
         threshold:
@@ -72,7 +72,6 @@ outputs:
 plugins:
     - plugin: "@modus/gimbal-plugin-last-value"
       saveOnlyOnSuccess: false
-
 
     - plugin: "@modus/gimbal-plugin-axe"
       thresholds:

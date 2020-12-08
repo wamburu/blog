@@ -10,6 +10,10 @@
         "proxy": "netlify-cms-proxy-server"
     },
     "dependencies": {
+        "@modus/gimbal-plugin-axe": "^1.2.6",
+        "@modus/gimbal-plugin-last-value": "^1.2.6",
+        "@modus/gimbal-plugin-source-map-explorer": "^1.2.6",
+        "@modus/gimbal-plugin-sqlite": "^1.2.6",
         "@narative/gatsby-theme-novela": "^0.18.0",
         "gatsby": "^2.13.41",
         "gatsby-plugin-advanced-sitemap": "^1.5.5",
@@ -23,10 +27,6 @@
         "netlify-cms-app": "^2.11.23",
         "netlify-cms-proxy-server": "^1.1.4",
         "react": "^16.8.6",
-        "react-dom": "^16.8.6",
-        "@modus/gimbal-plugin-axe": "^1.2.6",
-        "@modus/gimbal-plugin-last-value": "^1.2.6",
-        "@modus/gimbal-plugin-source-map-explorer": "^1.2.6",
-        "@modus/gimbal-plugin-sqlite": "^1.2.6"
+        "react-dom": "^16.8.6"
     }
 }
