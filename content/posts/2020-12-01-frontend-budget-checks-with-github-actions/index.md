@@ -27,7 +27,10 @@ In this walkthrough, we will conver:
 -   Configuring gimbal external plugins
 -   Adding comment to PR with budget results.
 
-There are various ways of checking metrics, but we are going to hightlight two easy ones using Gimbal (Part one) and Lighthouse CI ([Part Two](https://wamburu.codes/frontend-budget-checks-with-github-actions-pt.2)). Both of this are done using Github Actions.
+There are various ways of checking metrics, but we are going to hightlight two
+easy ones using Gimbal (Part one) and Lighthouse CI
+([Part Two](https://wamburu.codes/frontend-budget-checks-with-github-actions-pt.2)).
+Both of this are done using Github Actions.
 
 [Gimbal](https://github.com/ModusCreateOrg/gimbal) is built on top of Lighthouse
 and offers some added features. Gimbal can be run & configured using your
@@ -412,8 +415,7 @@ jobs:
                   filename: gimbal-artifacts/results.md
 ```
 
-That's it!
-Create a PR and your budget tests are ready to run. 📥
+That's it! Create a PR and your budget tests are ready to run. 📥
 
 Stuck or didn't understand a step 🤔? Please leave a comment below and will get
 back asap.
