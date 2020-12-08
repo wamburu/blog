@@ -2,32 +2,41 @@
 title: Frontend budget checks with Github Actions Pt.1 - Gimbal
 author: Denzel Wamburu
 date: 2020-12-01
-excerpt: A walkthrough to add performance budget checks to your build process
-  using gimbal.
+excerpt:
+    A walkthrough to add performance budget checks to your build process using
+    gimbal.
 hero: images/undraw_File_bundle_xl7g.png
 ---
-The [performance](https://web.dev/why-speed-matters/) of a webapp is the lifeline of a digital business.
-Let's look at a way of monitoring your webapp frontend budgets using Github actions.
-The metrics we are going to be monitoring are:
 
-* [Size Checks](https://github.com/siddharthkp/bundlesize)
-* [Lighthouse Audits](https://web.dev/measure/)
-* [Web Accessibility](https://developers.google.com/web/tools/chrome-devtools/accessibility/reference)
-* [Heap Snapshot](https://developers.google.com/web/tools/chrome-devtools/memory-problems)
-* [Unused Source](https://developers.google.com/web/tools/chrome-devtools/coverage)
-* [SEO](https://web.dev/lighthouse-seo/)
+The [performance](https://web.dev/why-speed-matters/) of a webapp is the
+lifeline of a digital business. Let's look at a way of monitoring your webapp
+frontend budgets using Github actions. The metrics we are going to be monitoring
+are:
 
-There are various ways of checking metrics, but we are going to hightlight two easy ones using Gimbal (Part one) and Lighthouse CI ([Part Two](https://wamburu.codes/frontend-budget-checks-with-github-actions-pt.2)). Both of this are done using Github Actions.
+-   [Size Checks](https://github.com/siddharthkp/bundlesize)
+-   [Lighthouse Audits](https://web.dev/measure/)
+-   [Web Accessibility](https://developers.google.com/web/tools/chrome-devtools/accessibility/reference)
+-   [Heap Snapshot](https://developers.google.com/web/tools/chrome-devtools/memory-problems)
+-   [Unused Source](https://developers.google.com/web/tools/chrome-devtools/coverage)
+-   [SEO](https://web.dev/lighthouse-seo/)
 
-[Gimbal](https://github.com/ModusCreateOrg/gimbal) is built on top of Lighthouse and offers some added features.
-Gimbal can be run & configured using your preferred CI.
+There are various ways of checking metrics, but we are going to hightlight two
+easy ones using Gimbal (Part one) and Lighthouse CI
+([Part Two](https://wamburu.codes/frontend-budget-checks-with-github-actions-pt.2)).
+Both of this are done using Github Actions.
 
-Configuration is done using a `.gimbalrc.yml` file stored in the root of your project.
+[Gimbal](https://github.com/ModusCreateOrg/gimbal) is built on top of Lighthouse
+and offers some added features. Gimbal can be run & configured using your
+preferred CI.
+
+Configuration is done using a `.gimbalrc.yml` file stored in the root of your
+project.
 
 ### Setup
 
-**1. Github Actions**
-Create a workflow file that will build your webapp and do performance testing using `ModusCreateOrg/gimbal/action` image on creating a pull request.
+**1. Github Actions** Create a workflow file that will build your webapp and do
+performance testing using `ModusCreateOrg/gimbal/action` image on creating a
+pull request.
 
 ```yaml
 name: CI
@@ -35,48 +44,49 @@ name: CI
 on: [pull_request]
 
 jobs:
-  Test:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out the code
-        uses: actions/checkout@v1
-        with:
-          fetch-depth: 1
-      # Build your frontend package
-      - name: Install node
-        uses: actions/setup-node@v1
-        with:
-          node-version: '10.13'
-      - name: Install npm dependencies
-        run: npm i
-      - name: Build
-        run: npm run build
-      # Run gimbal to test your compiled frontend package 
-      - name: Performance Budgeting Regression Testing
-        uses: ModusCreateOrg/gimbal/action@master
+    Test:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check out the code
+              uses: actions/checkout@v1
+              with:
+                  fetch-depth: 1
+            # Build your frontend package
+            - name: Install node
+              uses: actions/setup-node@v1
+              with:
+                  node-version: "10.13"
+            - name: Install npm dependencies
+              run: npm i
+            - name: Build
+              run: npm run build
+            # Run gimbal to test your compiled frontend package
+            - name: Performance Budgeting Regression Testing
+              uses: ModusCreateOrg/gimbal/action@master
 ```
 
 Create a workflow using the following configuration:
 
-**2. Gimbal Config**
-Gimbal comes with the following native audits: `size`, `lighthouse`, `heap-snapshot` & `unused-source`.
+**2. Gimbal Config** Gimbal comes with the following native audits: `size`,
+`lighthouse`, `heap-snapshot` & `unused-source`.
 
 ```yaml
 # Audit types to run
 audits:
-  - size
-  - lighthouse
-  - heap-snapshot
-  - unused-source
+    - size
+    - lighthouse
+    - heap-snapshot
+    - unused-source
 
 configs:
-  # Location of your build folder
-  buildDir: build
+    # Location of your build folder
+    buildDir: build
 ```
 
 Configs options:
 
-* Size - File & directory size settings. Configure individual files & directory threshold using regex.
+-   Size - File & directory size settings. Configure individual files &
+    directory threshold using regex.
 
 ```yaml
 size:
@@ -90,52 +100,55 @@ size:
       maxSize: 18 MB
 ```
 
-* Lighthouse - Config block for ligthouse preference
+-   Lighthouse - Config block for ligthouse preference
 
 ```yaml
-  lighthouse:
-   # Audits options to skip from
+lighthouse:
+    # Audits options to skip from
     skipAudits:
-      - uses-http2
-      - redirects-http
-      - uses-long-cache-ttl
-      - uses-text-compression
+        - uses-http2
+        - redirects-http
+        - uses-long-cache-ttl
+        - uses-text-compression
     outputHtml: artifacts/lighthouse.html
     # Threshold values for audits, incase one audit value is below the threshold, the test will fail.
     threshold:
-      accessibility: 90
-      best-practices: 92
-      performance: 64
-      pwa: 52
-      seo: 100
+        accessibility: 90
+        best-practices: 92
+        performance: 64
+        pwa: 52
+        seo: 100
 ```
 
-* Unused Source - Percentage of unused JS/CSS in a file.
+-   Unused Source - Percentage of unused JS/CSS in a file.
 
 ```yaml
-    unused-source:
-        threshold:
-            - path: "**/!(private).*.chunk.css"
-              maxSize: 60%
-            - path: "**/*([0-9]).*.chunk.js"
-              maxSize: 90%
+unused-source:
+    threshold:
+        - path: "**/!(private).*.chunk.css"
+          maxSize: 60%
+        - path: "**/*([0-9]).*.chunk.js"
+          maxSize: 90%
 ```
 
-* Heap Snapshot - Analyze memory graphs, compare snapshots, and find memory leaks.
+-   Heap Snapshot - Analyze memory graphs, compare snapshots, and find memory
+    leaks.
 
 ```yaml
-   heap-snapshot:
-        threshold:
-            Documents: 11
-            Frames: 5
-            JSHeapTotalSize: 13356000
-            JSHeapUsedSize: 10068000
-            Nodes: 800
-            RecalcStyleCount: 15
-            LayoutCount: 15
+heap-snapshot:
+    threshold:
+        Documents: 11
+        Frames: 5
+        JSHeapTotalSize: 13356000
+        JSHeapUsedSize: 10068000
+        Nodes: 800
+        RecalcStyleCount: 15
+        LayoutCount: 15
 ```
 
-More audits can be added using plugins. Let's add `axe` (for accessibility benchmarks), `source-map-explorer` (for exploring individual files that make up the source).
+More audits can be added using plugins. Let's add `axe` (for accessibility
+benchmarks), `source-map-explorer` (for exploring individual files that make up
+the source).
 
 We need to install the npm devDeps for each plugin:
 
@@ -191,34 +204,42 @@ plugins:
 ...
 ```
 
-Source map explorer determines which file each byte in your minified code came from. You can set the threshold for each file entrypoint.
+Source map explorer determines which file each byte in your minified code came
+from. You can set the threshold for each file entrypoint.
 
 ### <u> Results</u>
 
-Gimbal outputs results in `json`, `html` and `md`. Output can be configered with:
+Gimbal outputs results in `json`, `html` and `md`. Output can be configered
+with:
 
 ```yaml
 # Locations of reports. Useful for storing artifacts in CI
 outputs:
-  # Only show failures in CLI
-  cli:
-    onlyFailures: false
-  html: ./gimbal-artifacts/results.html
-  json: ./gimbal-artifacts/results.json
-  markdown: ./gimbal-artifacts/results.md
+    # Only show failures in CLI
+    cli:
+        onlyFailures: false
+    html: ./gimbal-artifacts/results.html
+    json: ./gimbal-artifacts/results.json
+    markdown: ./gimbal-artifacts/results.md
 ```
 
 ### <u> Comment on PR </u>
 
-Outputting the results of the test into a comment under a pull request can be done from the github actions workflow configuration.
+Outputting the results of the test into a comment under a pull request can be
+done from the github actions workflow configuration.
 
 ![Gimbal Comment](images/gimbal_comment.png "Gimbal Comment on PR")
 
-Since the markdown results output can be stored in markdown (`./gimbal-artifacts/results.md` from the above config), we can paste this to the comment of our PR.
+Since the markdown results output can be stored in markdown
+(`./gimbal-artifacts/results.md` from the above config), we can paste this to
+the comment of our PR.
 
-[Comment on PR](https://github.com/marketplace/actions/comment-on-pr) & [upload-artifact ](https://github.com/actions/upload-artifact)action can run this for us. 
+[Comment on PR](https://github.com/marketplace/actions/comment-on-pr) &
+[upload-artifact ](https://github.com/actions/upload-artifact)action can run
+this for us.
 
-After building frontend package actions, let's add two more functions to upload gimbal results to action artifacts and posting the results to a comment.
+After building frontend package actions, let's add two more functions to upload
+gimbal results to action artifacts and posting the results to a comment.
 
 ```yaml
 # Upload results to artifacts
@@ -227,20 +248,20 @@ After building frontend package actions, let's add two more functions to upload 
 - name: Archive code coverage results
   uses: actions/upload-artifact@v2
   with:
-    name: Upload to artifacts
-    path: gimbal-artifacts/
-  
+      name: Upload to artifacts
+      path: gimbal-artifacts/
+
   # Add PR comment with gimbal results from artifacts
 - name: Add results to comment
   uses: harupy/comment-on-pr@master
   continue-on-error: true
   env:
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   with:
-    filename: gimbal-artifacts/results.md
+      filename: gimbal-artifacts/results.md
 ```
 
-Our full `.gimbalrc.yml `configuration is:
+Our full `.gimbalrc.yml`configuration is:
 
 ```yaml
 # Audit types to run
@@ -255,7 +276,7 @@ configs:
   buildDir: build
   logger:
     level: 1
-    
+
   #Native plugin configs
   size:
       - path: ./build/static/js/[0-9]*.chunk.js
@@ -280,14 +301,14 @@ configs:
         performance: 64
         pwa: 52
         seo: 100
-        
+
    unused-source:
           threshold:
               - path: "**/!(private).*.chunk.css"
                 maxSize: 60%
               - path: "**/*([0-9]).*.chunk.js"
                 maxSize: 90%
-                
+
    heap-snapshot:
           threshold:
               Documents: 11
@@ -342,52 +363,53 @@ outputs:
   cli:
     onlyFailures: false
   markdown: ./gimbal-artifacts/results.md
-  
+
 ```
 
-Our budget workflow action file in full (located in `.github/workflows/audits.ymla` - you need to enable github actions in your repo acitons page):
+Our budget workflow action file in full (located in
+`.github/workflows/audits.ymla` - you need to enable github actions in your repo
+acitons page):
 
 ```yaml
 name: Budget Tests
 on: pull_request
 
 jobs:
-  Test:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out the code
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 1
-      - name: Install node
-        uses: actions/setup-node@v2-beta
-        with:
-          # SQLite has errors compiling for node >v12 as of writing this.
-          node-version: '10.13'
-      - name: Install npm dependencies
-        run: npm i
-      - name: Build
-        run: npm run build
-      - name: Performance Budgeting Regression Testing
-        uses: ModusCreateOrg/gimbal/action@master
-      - name: Archive code coverage results
-        uses: actions/upload-artifact@v2
-        with:
-          name: Upload to artifacts
-          path: gimbal-artifacts/
+    Test:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check out the code
+              uses: actions/checkout@v2
+              with:
+                  fetch-depth: 1
+            - name: Install node
+              uses: actions/setup-node@v2-beta
+              with:
+                  # SQLite has errors compiling for node >v12 as of writing this.
+                  node-version: "10.13"
+            - name: Install npm dependencies
+              run: npm i
+            - name: Build
+              run: npm run build
+            - name: Performance Budgeting Regression Testing
+              uses: ModusCreateOrg/gimbal/action@master
+            - name: Archive code coverage results
+              uses: actions/upload-artifact@v2
+              with:
+                  name: Upload to artifacts
+                  path: gimbal-artifacts/
 
-      - name: Add results to comment
-        uses: harupy/comment-on-pr@master
-        continue-on-error: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          filename: gimbal-artifacts/results.md
+            - name: Add results to comment
+              uses: harupy/comment-on-pr@master
+              continue-on-error: true
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              with:
+                  filename: gimbal-artifacts/results.md
 ```
-
-
 
 That's it!\
 Create a PR and your budget tests are ready to run. 📥
 
-Stuck or didn't understand a step 🤔? Please leave a comment below and will get back asap.
+Stuck or didn't understand a step 🤔? Please leave a comment below and will get
+back asap.
