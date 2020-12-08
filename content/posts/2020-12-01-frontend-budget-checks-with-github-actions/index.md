@@ -20,6 +20,13 @@ are:
 -   [Unused Source](https://developers.google.com/web/tools/chrome-devtools/coverage)
 -   [SEO](https://web.dev/lighthouse-seo/)
 
+In this walkthrough, we will conver:
+
+-   Setting up github acitons for building & gimbal
+-   Configuring gimbal native plugins
+-   Configuring gimbal external plugins
+-   Adding comment to PR with budget results.
+
 There are various ways of checking metrics, but we are going to hightlight two
 easy ones using Gimbal (Part one) and Lighthouse CI
 ([Part Two](https://wamburu.codes/frontend-budget-checks-with-github-actions-pt.2)).
@@ -408,8 +415,7 @@ jobs:
                   filename: gimbal-artifacts/results.md
 ```
 
-That's it!\
-Create a PR and your budget tests are ready to run. 📥
+That's it! Create a PR and your budget tests are ready to run. 📥
 
 Stuck or didn't understand a step 🤔? Please leave a comment below and will get
 back asap.
