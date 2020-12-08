@@ -41,12 +41,6 @@ configs:
             pwa: 52
             seo: 85
 
-        #File and directory size settings
-    size:
-        threshold:
-            - path: ./build/
-              maxSize: 18 MB
-
     # Unused source settings
     unused-source:
         threshold:
