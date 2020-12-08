@@ -1,10 +1,8 @@
 # Specify audits to run. Also include any plugins (like axe)
 audits:
     - axe
-    - size
     - lighthouse
     - heap-snapshot
-    - unused-source
     - source-map-explorer
 
 configs:
