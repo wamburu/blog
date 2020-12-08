@@ -20,7 +20,7 @@ are:
 -   [Unused Source](https://developers.google.com/web/tools/chrome-devtools/coverage)
 -   [SEO](https://web.dev/lighthouse-seo/)
 
-In this walkthrough, we will conver:
+In this walkthrough, we will cover:
 
 -   Setting up github acitons for building & gimbal
 -   Configuring gimbal native plugins
