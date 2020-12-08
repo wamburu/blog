@@ -14,7 +14,7 @@ configs:
         # Only show failures in GitHub PR comments.
         # Useful to pinpoint why a build has failed
         onlyFailures: false
-    buildDir: build
+    buildDir: public
     # Heap snapshot settings
     heap-snapshot:
         threshold:
