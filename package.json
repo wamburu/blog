@@ -19,7 +19,7 @@
         "gatsby-plugin-advanced-sitemap": "^1.5.5",
         "gatsby-plugin-google-analytics": "^2.3.13",
         "gatsby-plugin-mailchimp": "^5.2.2",
-        "gatsby-plugin-manifest": "^2.2.4",
+        "gatsby-plugin-manifest": "^2.10.0",
         "gatsby-plugin-netlify-cms": "^4.1.40",
         "gatsby-plugin-offline": "^3.2.26",
         "gatsby-plugin-purgecss": "^5.0.0",
