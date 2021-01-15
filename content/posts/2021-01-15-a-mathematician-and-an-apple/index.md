@@ -29,7 +29,7 @@ Napster, founded in 1999 & pioneered peer-to-peer sharing, enabled users to shar
 
 #### Aftermath
 
-Steve Jobs, fresh from his return to Apple in 1997, saw the opportunity to build a business model around a legal & better product for music distribution. In 2001, Apple [introduced](https://youtu.be/kN0SVBCJqLs) the iTunes and iPod. The iPod had 1,000 songs, with $0.99 per song,unbundling song purchase from the album.
+Steve Jobs, fresh from his return to Apple in 1997, saw the opportunity to build a business model around a legal & better product for music distribution. In 2001, Apple [introduced](https://youtu.be/kN0SVBCJqLs) the iTunes and iPod. The iPod had 1,000 songs, with $0.99 per song, unbundling song purchase from the album.
 
 <div className="Image__Small">
   <img src="./images/players_ipod_comparison.png" alt="iPod comparison with mp3 players" />
