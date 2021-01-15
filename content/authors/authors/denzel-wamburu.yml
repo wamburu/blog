@@ -1,11 +1,11 @@
 name: Denzel Wamburu
 bio: >-
-  Building and delivering brilliant simple products. Excited about the future,
-  working towards it. This is my lifelog and digital playground.
-featured: true
+    Building and delivering brilliant simple products. Excited about the future,
+    working towards it. This is my lifelog and digital playground.
+featured: false
 avatar: avatars/75d7f39d-4e09-4523-890e-5b0e74ca6586.jpeg
 social:
-  - url: 'https://twitter.com/denzelwamburu'
-  - url: 'https://github.com/wamburu'
-  - url: 'https://www.linkedin.com/in/wamburu/'
-  - url: 'https://instagram.com/denzellities'
+    - url: "https://twitter.com/denzelwamburu"
+    - url: "https://github.com/wamburu"
+    - url: "https://www.linkedin.com/in/wamburu/"
+    - url: "https://instagram.com/denzellities"

@@ -1,7 +1,7 @@
 ---
 title: Media Consumption (Aug 2020)
-author: Denzel Wamburu
-date: '2020-09-01'
+author: Roboflank
+date: 2020-09-01
 excerpt: Tracked Media Consumption for Aug 2020.
 hero: images/opened_book.jpg
 ---

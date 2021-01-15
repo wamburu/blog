@@ -1,7 +1,7 @@
 ---
 title: /uses
-author: Denzel Wamburu
-date: '2020-08-15'
+author: Roboflank
+date: 2020-08-15
 excerpt: My productivity suite.
 hero: images/desktop.jpg
 ---
