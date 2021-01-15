@@ -2,7 +2,7 @@
 title: A mathematician and an apple
 author: Roboflank
 date: 2021-01-15
-excerpt: How a mathematician led to the smartphone revolution.
+excerpt: How a mathematician started the smartphone revolution.
 hero: images/karlheinz_brandenburg-.jpg
 ---
 <div className="Image__Medium">
