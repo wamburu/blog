@@ -13,8 +13,8 @@ Humor sponsored by <a href="https://xkcd.com/356/">https://xkcd.com/356/</a>
 
 ### Backstory
 
-In the early 90s, music consumption was largely over CDs. The audio was stored in AIFF (Audio Interchange File Format). It was high quality and excessively big. One song, 3 minutes long, could be 30 MB in size. An album, 80 minutes could be 800 MB.  
-With internet speeds averaging 6.1 kbit/s, it took ~1.5 Hrs to download a song, and about ~1.5 days to get an album.
+In the early 90s, music consumption was largely over CDs. The audio was stored in AIFF (Audio Interchange File Format). It was high quality and excessively large. One song, 3 minutes long, could be 30 MB in size. An album, 80 minutes could be 800 MB.  
+With internet speeds averaging 6.1 kbit/s, it took ~1.5 Hrs to download a song, and about ~1.5 days to get an album. A 16GB MP3 player would only hold around 20 albums.
 
 In 1995, The Fraunhofer Society posted a shareware version of their MP3 encoding software on the internet. The software under the hood implemented a [digital music compression algorithm](https://youtu.be/KGZ0een8vSE) based on Karlheinz Brandenburg's work. Karlheinz, an electrical engineer & **mathematician**, developed mathematical models that shrank music by 10:1 to 12:1 of its original size while retaining quality. A song's size with this technology will be about 3 MB down from the 30 MB and will take ~8 minutes to download.
 
