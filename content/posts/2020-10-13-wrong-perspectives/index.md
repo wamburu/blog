@@ -1,6 +1,6 @@
 ---
 title: Wrong Perspectives
-author: Denzel Wamburu
+author: Roboflank
 date: 2020-10-14
 excerpt: M-PESA is a wrong example for a nation to benchmark it's innovation &
   startup culture.

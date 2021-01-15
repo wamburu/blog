@@ -1,6 +1,6 @@
 ---
 title: Frontend budget checks with Github Actions Pt.1 - Gimbal
-author: Denzel Wamburu
+author: Roboflank
 date: 2020-12-08
 excerpt: A walkthrough to add performance budget checks to your build process
   using gimbal.

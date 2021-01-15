@@ -1,6 +1,6 @@
 ---
 title: "Platforming the future: Safaricom"
-author: Denzel Wamburu
+author: Roboflank
 date: 2020-09-02
 excerpt: How Safaricom can platform the future of retail using state of the art
   recommendations, extensive supply chain and payments network.
