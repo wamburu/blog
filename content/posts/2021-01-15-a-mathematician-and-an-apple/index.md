@@ -1,5 +1,5 @@
 ---
-title: A mathematician and an apple
+title: A Mathematician and an Apple
 author: Roboflank
 date: 2021-01-15
 excerpt: How a mathematician's work led to the smartphone revolution.
