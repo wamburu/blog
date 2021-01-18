@@ -5,9 +5,9 @@ require("dotenv").config({
 module.exports = {
     siteMetadata: {
         title: `Denzel's LifeLogs`,
-        name: `Denzel Wamburu`,
+        name: `Roboflank`,
         siteUrl: `https://wamburu.codes`,
-        description: `Denzel Wamburu: My lifelog. Sharing thoughts, ideas & projects. `,
+        description: `Thoughts, ideas & projects. `,
         hero: {
             heading: ``,
             // heading: `This is my lifelog and digital playground.`,
@@ -16,15 +16,15 @@ module.exports = {
         social: [
             {
                 name: `twitter`,
-                url: `https://twitter.com/denzelwamburu`
+                url: `https://twitter.com/roboflank`
             },
             {
                 name: `github`,
-                url: `https://github.com/wamburu`
+                url: `https://github.com/roboflank`
             },
             {
                 name: `instagram`,
-                url: `https://instagram.com/denzellities`
+                url: `https://instagram.com/roboflank`
             },
             {
                 name: `linkedin`,
@@ -57,7 +57,7 @@ module.exports = {
             resolve: `gatsby-plugin-manifest`,
             options: {
                 name: `Denzel's LifeLogs`,
-                short_name: `Denz W`,
+                short_name: `Roboflank`,
                 start_url: `/`,
                 background_color: `#fff`,
                 theme_color: `#fff`,
