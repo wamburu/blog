@@ -21,7 +21,7 @@
         "gatsby-plugin-mailchimp": "^5.2.2",
         "gatsby-plugin-netlify-cms": "^4.8.0",
         "gatsby-plugin-manifest": "^2.10.0",
-        "gatsby-plugin-offline": "^3.8.0",
+        "gatsby-plugin-offline": "^3.10.0",
         "gatsby-plugin-purgecss": "^5.0.0",
         "gatsby-plugin-sitemap": "^2.10.0",
         "gatsby-plugin-slug": "^1.1.0",
