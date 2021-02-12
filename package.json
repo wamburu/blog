@@ -15,7 +15,7 @@
         "@modus/gimbal-plugin-source-map-explorer": "^1.2.6",
         "@modus/gimbal-plugin-sqlite": "^1.2.6",
         "gatsby": "^2.30.2",
-        "@narative/gatsby-theme-novela": "^0.18.5",
+        "@narative/gatsby-theme-novela": "^0.18.6",
         "gatsby-plugin-advanced-sitemap": "^1.5.5",
         "gatsby-plugin-google-analytics": "^2.9.0",
         "gatsby-plugin-mailchimp": "^5.2.2",
